@@ -1,0 +1,35 @@
+ID,Rule Name,Sql Query
+68,pls work ,"INSERT INTO your_table_name (column1, column2, column3)
+VALUES ('value1', 'value2', 'value3');
+"
+69,pls work ,"INSERT INTO sqlas (column1, column2, column3)
+VALUES ('value1', 'value2', 'value3');
+"
+70,pls work ,"INSERT INTO sqlas (column1, column2, column3) VALUES ('value1', 'value2', 'value3');
+"
+71,pls work ,"INSERT INTO slas (column1, column2, column3) VALUES ('value1', 'value2', 'value3');
+"
+72,testing,select * from sqla;
+73,testing,select * from sqla
+74,testing,select * from sqla;
+75,Select All,select * from sqlr
+76,deleting,DELETE FROM Customers WHERE CustomerName='Alfreds Futterkiste';
+77,deleting,DELETE FROM Customers WHERE CustomerName='Alfreds Futterkiste';
+78,del,DELETE FROM Customers WHERE CustomerName='Alfreds Futterkiste';
+79,deletinga,select * from tab;
+80,deletin,select * from tab;
+57,updating,select * from tab;
+58,sql is best,select * from tab;
+81,newwest,select * from tabling;
+61,editing and updating,select * from sqla;
+52,delete,delete from id == 1
+53,SELECT * FROM SQL;,SELECT
+54,SELECT,SELECT * FROM SQL;
+55,SELECT,SELECT * from sql;
+56,SELECT,SELECT  from sql;
+62,selecting,select * from sqsl;
+63,trying out,select * from t;
+82,droping,drop table tab;
+83,deleting table akash,drop table akash
+84,asas,"
+"
